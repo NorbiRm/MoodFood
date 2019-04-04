@@ -1,2 +1,3 @@
 # MoodFood
-app android
+Luis Juan Centurión
+Norberto Reyes
