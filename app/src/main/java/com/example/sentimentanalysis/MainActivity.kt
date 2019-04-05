@@ -130,7 +130,7 @@ class MainActivity : AppCompatActivity(),TextToSpeech.OnInitListener {
                 determiner -=1
             }
         }
-        return determiner>=0
+        return determiner>0
     }
     private fun analizeMoodandFood(frase: String){
         val fraseWords = frase.split(", ",". "," ")
