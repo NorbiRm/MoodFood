@@ -1,0 +1,6 @@
+apples
+bannanas
+bread
+chocolate
+fruits
+pizza
